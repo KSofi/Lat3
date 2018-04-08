@@ -1,10 +1,12 @@
 ## use python 3.4.2
 ## syntax ini menggunakan function
 ## output akan menampilkan tabel dari module texttable yang ada di library
-```import texttable as tt
+```javascript
+import texttable as tt
 ```
 ## agar saat program dijalankan password tidak ditampilkan (disamarkan)
-```import getpass
+```javascript
+import getpass
 ```
 ## script untuk menampilkan pilihan menu
 ```javascript
